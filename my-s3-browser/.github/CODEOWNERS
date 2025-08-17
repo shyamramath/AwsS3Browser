@@ -1,0 +1,6 @@
+# Default owners for all files
+*        @your-org/frontend-team
+
+# Example: stricter ownership for critical paths
+src/security/**   @your-org/security-team
+
