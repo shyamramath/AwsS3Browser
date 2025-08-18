@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "react-scripts build || vite build || next build",
+    "build": "vite build",
     "test": "jest",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit"
