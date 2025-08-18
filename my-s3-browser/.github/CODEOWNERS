@@ -1,0 +1,6 @@
+# Default owners for all files
+*       @shyamramath
+
+# Example: stricter ownership for critical paths
+src/security/**   @shyamramath
+
