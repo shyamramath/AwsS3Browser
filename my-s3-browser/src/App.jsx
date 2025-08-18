@@ -4,7 +4,7 @@ import { StorageBrowser } from './StorageBrowserConfig';
 export default function App() {
   const setup = "setup";
   const handleClick = () => {
-    console.log("Button clicked", setpu);
+    console.log("Button clicked", setup);
   };
   return (
     <div style={{ margin: '10vh 15vw', textAlign: 'center' }}>
@@ -13,4 +13,5 @@ export default function App() {
       <StorageBrowser />
     </div>
   );
+
 }
